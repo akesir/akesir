@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently this profile is a work in progress, but expect new repositories and info about me soon!
+Btw, I'm currently learning cybersecurity, game dev and coding in general. Soon there will be more details here!
+
 <!--
 **akesir/akesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
