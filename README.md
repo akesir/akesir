@@ -1,19 +1,13 @@
-## Hi there 👋
+## Hi there! 😸
 
-Currently this profile is a work in progress, but expect new repositories and info about me soon!
-Btw, I'm currently learning cybersecurity, game dev and coding in general. Soon there will be more details here!
+I'm Akesir, a friendly cat who loves playing games, listening to music and to always learn something new!
 
-<!--
-**akesir/akesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've got a bit of experience in developing games, mainly working on UI, on Unity and Godot, and I've worked as a QA for around five years using PHP and Gherkin. Now I'm focusing more on my studies and I want to build a strong base knowledge in each technology so I can improve my testing capabilities, including cybersecurity-related testing.
 
-Here are some ideas to get you started:
+### Technologies
+- Languages: JavaScript, C#, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tools: Unity, Godot, BurpSuite
+
+
+Currently this profile is a work in progress, so there's still a lot for me to include in this profile and I'll also make it look a lot better!
