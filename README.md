@@ -1,6 +1,6 @@
 ## Hi there! 😸
 
-I'm Akesir, a friendly cat who loves playing games, listening to music and to always learn something new!
+I'm Akesir, an introvert cat who loves playing games, listening to music and to always learn something new!
 
 I've got a bit of experience in developing games, mainly working on UI, on Unity and Godot, and I've worked as a QA for around five years using PHP and Gherkin. Now I'm focusing more on my studies and I want to build a strong base knowledge in each technology so I can improve my testing capabilities, including cybersecurity-related testing.
 
