@@ -9,7 +9,7 @@ I've got a bit of experience in developing games, mainly working on UI, on Unity
 
 - Tools: Unity, Godot, BurpSuite
 
-### Current focus
+### Current study focus
 - Javascript
 - Cybersecurity (Server-side vulnerabilities)
 
