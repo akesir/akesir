@@ -10,7 +10,7 @@ I've got a bit of experience in developing games, mainly working on UI, on Unity
 - Tools: Unity, Godot, BurpSuite
 
 ### Current study focus
-- Javascript
+- Javascript, Rust
 - Cybersecurity (Server-side vulnerabilities)
 
 Currently this profile is a work in progress, so there's still a lot for me to include in this profile and I'll also make it look a lot better!
